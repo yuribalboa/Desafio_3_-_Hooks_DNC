@@ -1,0 +1,68 @@
+.projects h1{
+    font-family: 'Heebo';
+    font-size: 25px;
+    font-weight: 520;
+    line-height: 60px;
+    text-align: left;
+    color: #21243D;
+    padding-left: 175px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.projects a{
+    color: #21243D !important;
+    text-decoration: none;
+    font-family: 'Heebo';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 44.06px;
+    text-align: left;
+    margin-left: 35px;
+}
+
+.projects p{
+    color: #21243D !important;
+    font-family: 'Heebo';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23.5px;
+    text-align: justify;
+    width: 600px;
+    height: 93px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.ptojects div{
+    padding-top: 10px;
+}
+
+.projects section{
+    display: flex;
+    margin-left: 175px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.projects img{
+    width: 280px;
+    height: 200px;
+    border-radius: 6px;
+    opacity: 0px;    
+}
+
+.projects img:hover{
+    transform: translateY(-10px);
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.retangle{
+    width: 870px;
+    height: 0px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid #E0E0E0;
+    margin-bottom: 10px;
+}
