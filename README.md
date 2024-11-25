@@ -52,15 +52,18 @@ O portfólio foi projetado para fornecer uma visão geral das minhas habilidades
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/portfolio-pessoal.git
-Navegue até o diretório do projeto:
-bash
-cd portfolio-pessoal
-Instale as dependências:
-bash
-npm install
-Inicie o servidor de desenvolvimento:
-bash
+   git clone https://github.com/yuribalboa/Desafio_3_-_Hooks_DNC.git
+
+2. Navegue até o diretório do projeto:
+ ```bash
+  cd portfolio-pessoal
+
+3. Instale as dependências:
+ ```bash
+  npm install
+
+4. Inicie o servidor de desenvolvimento:
+ ```bash
 npm run dev
 
 🌟 Prévia
