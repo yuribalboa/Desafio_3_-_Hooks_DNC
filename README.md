@@ -50,21 +50,25 @@ O portfólio foi projetado para fornecer uma visão geral das minhas habilidades
 
 ## 🛠️ Como Executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/yuribalboa/Desafio_3_-_Hooks_DNC.git
+**1.** Clone o repositório:
+```bash
+git clone https://github.com/yuribalboa/Desafio_3_-_Hooks_DNC.git
+```
 
-2. Navegue até o diretório do projeto:
- ```bash
-  cd portfolio-pessoal
+**2.** Navegue até o diretório do projeto:
+```bash
+cd portfolio-pessoal
+```
 
-3. Instale as dependências:
- ```bash
-  npm install
+**3.** Instale as dependências:
+```bash
+npm install
+```
 
-4. Inicie o servidor de desenvolvimento:
- ```bash
+**4.*** Inicie o servidor de desenvolvimento:
+```bash
 npm run dev
+```
 
 🌟 Prévia
 
